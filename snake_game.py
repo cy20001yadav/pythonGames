@@ -9,8 +9,8 @@ delay = 100
 offsets = {
     "up": (0, 20),
     "down": (0, -20),
-    "left": (-20, 0),
-    "right": (20, 0)
+    "left": (-20, 1),
+    "right": (20, 4)
 }
  
 def reset():
